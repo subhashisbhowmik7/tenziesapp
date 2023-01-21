@@ -1,4 +1,8 @@
-# co82b48eab99c792f6b884857
+A Tenzies Game w/ Reactjs
+
+![image](https://user-images.githubusercontent.com/58699916/213857555-e19093f3-ed3a-4946-b755-3d9df1e333bd.png)
+
+
 
 Quick start:
 
@@ -14,7 +18,3 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 ```
 $ yarn watch # npm run watch
 ```
-
-
-"# tenzies" 
-"# tenzies" 
