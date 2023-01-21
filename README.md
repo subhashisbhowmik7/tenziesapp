@@ -1,7 +1,6 @@
-A Tenzies Game w/ Reactjs
-
+## A Tenzies Game
 ![image](https://user-images.githubusercontent.com/58699916/213857555-e19093f3-ed3a-4946-b755-3d9df1e333bd.png)
-
+*https://tenziesproject-app.netlify.app/*
 
 
 Quick start:
